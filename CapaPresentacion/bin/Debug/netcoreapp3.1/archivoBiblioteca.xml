@@ -1,0 +1,22 @@
+<Biblioteca>
+  <libro>
+    <codigo>10000</codigo>
+    <nombre>100 años de soledad</nombre>
+    <idAutor>20000000</idAutor>
+    <nombreAutor>Gabriel Solano</nombreAutor>
+    <nacionalidadAutor>Colombiano14/6/1989 00:00:00</nacionalidadAutor>
+    <sexoAutor>Hombre</sexoAutor>
+    <anno>1945</anno>
+    <anno>Son cien años miy solos.</anno>
+  </libro>
+  <libro>
+    <codigo>2000</codigo>
+    <nombre>Las mil y una noches</nombre>
+    <idAutor>30000000</idAutor>
+    <nombreAutor>Salam Salem</nombreAutor>
+    <nacionalidadAutor>Turco12/7/1944 00:00:00</nacionalidadAutor>
+    <sexoAutor>Hombre</sexoAutor>
+    <anno>2017</anno>
+    <anno>Nueva novela del clasico de Las mil y una noches.</anno>
+  </libro>
+</Biblioteca>

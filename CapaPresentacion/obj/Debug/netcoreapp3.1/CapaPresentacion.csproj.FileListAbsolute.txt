@@ -1,0 +1,16 @@
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.exe
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.deps.json
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.runtimeconfig.json
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.runtimeconfig.dev.json
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.dll
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\bin\Debug\netcoreapp3.1\CapaPresentacion.pdb
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.Form1.resources
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.AssemblyInfo.cs
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.dll
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.pdb
+C:\Users\vizuni1\source\repos\EjemploXML\CapaPresentacion\obj\Debug\netcoreapp3.1\CapaPresentacion.genruntimeconfig.cache
